@@ -3,7 +3,7 @@ body {
 	color:rgba(0, 0, 0, .5);
 	text-align: center;
 	letter-spacing:.5em;
-	background-color: green;
+	background: linear-gradient(to right,rgb(24,125,164), rgb(200, 172, 103)) ;
 
 }
 .done {
@@ -20,7 +20,7 @@ div	{
 	text-transform: uppercase;
 }
 input {
-	font-size: 1.3rem;
+	font-size: 1rem;
 	background-color: black;
 	color: yellow;
 
